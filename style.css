@@ -153,3 +153,7 @@
  .timeline .box .bottom .btn:hover {
 	 transform: scale(1.03);
 }
+
+.img {
+	float: left;
+}
