@@ -1,8 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
 @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 body {
-  font-family: 'Cedarville Cursive', cursive;
+  font-family: 'Indie Flower', cursive;
   margin: 0;
   padding: 0 4em;
 }
@@ -68,4 +69,13 @@ p:first-child {
 p:last-child {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.rotate {
+
+  transform: rotate(-180deg);
+
+
+
+
 }
